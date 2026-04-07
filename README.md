@@ -1,23 +1,9 @@
 # AI-Driven Customer Segmentation System
 ## SQL + Machine Learning + Interactive Dashboard
 
----
 
-## 📋 Table of Contents
-1. [Project Overview](#project-overview)
-2. [System Architecture](#system-architecture)
-3. [Technologies Used](#technologies-used)
-4. [Database Schema](#database-schema)
-5. [Installation Guide](#installation-guide)
-6. [Usage Instructions](#usage-instructions)
-7. [SQL Queries Explained](#sql-queries-explained)
-8. [Machine Learning Pipeline](#machine-learning-pipeline)
-9. [Dashboard Features](#dashboard-features)
-10. [Results & Insights](#results--insights)
-11. [Troubleshooting](#troubleshooting)
-12. [Future Enhancements](#future-enhancements)
 
----
+
 
 ## 🎯 Project Overview
 
